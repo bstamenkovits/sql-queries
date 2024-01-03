@@ -2,9 +2,11 @@
 A repo containing common SQL queries
 
 **Table of Contents**
-- item1
-- item2
-- item3
+- [Filter Data](Notebooks/01%20Filter%20Data.ipynb)
+- [Extractt Data](Notebooks/02%20Extract%20Data.ipynb)
+- [Combine Data](Notebooks/03%20Combine%20Data.ipynb)
+- [Subqueries](Notebooks/04%20Subqueries.ipynb)
+- Window Functions
 
 ```
 pip install ipython-sql
