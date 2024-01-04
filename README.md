@@ -6,7 +6,7 @@ A repo containing common SQL queries
 - [Extractt Data](Notebooks/02%20Extract%20Data.ipynb)
 - [Combine Data](Notebooks/03%20Combine%20Data.ipynb)
 - [Subqueries](Notebooks/04%20Subqueries.ipynb)
-- Window Functions
+- [Window Functions](Notebooks/05%20Window%20Functions.ipynb)
 
 ```
 pip install ipython-sql
