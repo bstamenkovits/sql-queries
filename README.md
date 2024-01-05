@@ -45,7 +45,7 @@ This repo mainly consists of IPythong Notebooks which run SQL querries from sqli
 
 
 ### Ipython Notebook Setup
-I am using VS Code and the [Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extension automatically configure the ipython kernel. 
+I am using VS Code and the [Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extension automatically configures the ipython kernel. 
 
 In addition the ipython sql package needs to be installed.
 
@@ -56,7 +56,7 @@ pip install ipython-sql
 All the relevant packages can be found in [requirements.txt](requirements.txt)
 
 
-### SQLite Installation
+### SQLite Installation Windows
 - [Download](https://www.sqlite.org/download.html) the files for the windows operation system
 - Extract the zip files to a relevant folder (e.g. `C:\Program Files\sqlite`)
 - Add the path to said folder to your system path 
